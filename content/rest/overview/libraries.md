@@ -115,7 +115,7 @@ Library name | Repository
 **PowerShellForGitHub**|[microsoft/PowerShellForGitHub](https://github.com/microsoft/PowerShellForGitHub)
 
 ### Python
-
+ 
 Library name | Repository
 |---|---|
 **gidgethub**|[brettcannon/gidgethub](https://github.com/brettcannon/gidgethub)
